@@ -1,8 +1,4 @@
-<!Doctype html>
-<html>
-
-<head>
-<link rel="stylesheet" href="button.css">
+>
 
  .golu-hoku {
 color:red;
@@ -44,9 +40,4 @@ background-repeat-y:3;
 <title>Father</title>
 <p class="golu-hoku"><u>Hi my name is <strong>situ</strong> </u></p><br><button class=but-op>SITU</button><br><img class="bata" src=bata.jpg>
 
-<p class="father">my father is some one who has the will to sacrfice everything to us sometimes my father might get angry even though we dont like that.but i am lucky that i have a father like him and from all the things i want to have is my father and my mother being proud of me</p>
-
-</body>
-
-</html>
-
+<p class="father">my father is some one who has the will
